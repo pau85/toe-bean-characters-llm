@@ -1,0 +1,23 @@
+{
+  "name": "toe-bean-characters-llm",
+  "version": "1.0.0",
+  "description": "Contains data on characters for show.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pau85/toe-bean-characters-llm.git"
+  },
+  "keywords": [
+    "toebean",
+    "characters"
+  ],
+  "author": "Paulette Currington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pau85/toe-bean-characters-llm/issues"
+  },
+  "homepage": "https://github.com/pau85/toe-bean-characters-llm#readme"
+}
