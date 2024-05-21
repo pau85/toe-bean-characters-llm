@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/pau85/toe-bean-characters-llm/issues"
   },
-  "homepage": "https://github.com/pau85/toe-bean-characters-llm#readme"
+  "homepage": "https://github.com/pau85/toe-bean-characters-llm#readme",
+  "files": [
+    "assets/*"
+  ]
+  
 }
